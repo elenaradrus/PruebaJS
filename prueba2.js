@@ -11,6 +11,3 @@ for (let i = 0; i < frase_2.length; i++) {
 if (count >= 1) {
   alert("Tu frase tiene " + (count + 1) + " palabras"); 
 } 
-  
-
-
